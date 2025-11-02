@@ -481,7 +481,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Kari-Lenin Faust",
+    name: "Karl-Lenin Faust",
     img: "FaustSmall.png",
     opts: {
       series: ["mice"]
