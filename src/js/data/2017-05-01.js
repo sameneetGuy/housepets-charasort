@@ -1028,35 +1028,35 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Spot",
-    img: "c5DqpgX.png",
+    img: "SpotSmall.png",
     opts: {
       series: ["spot"]
     }
   },
   {
-    name: "Stripes",
-    img: "c5DqpgX.png",
+    name: "Stripe",
+    img: "StripeSmall.png",
     opts: {
       series: ["spot"]
     }
   },
   {
     name: "Jim-Jim",
-    img: "c5DqpgX.png",
+    img: "JimJim.png",
     opts: {
       series: ["spot"]
     }
   },
   {
     name: "Regular Hawk",
-    img: "c5DqpgX.png",
+    img: "Regular_Hawk.png",
     opts: {
       series: ["spot"]
     }
   },
   {
     name: "Bat-Bat",
-    img: "c5DqpgX.png",
+    img: "BatBatSmall.png",
     opts: {
       series: ["spot"]
     }
