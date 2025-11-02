@@ -685,21 +685,21 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Winter",
-    img: "c5DqpgX.png",
+    img: "WinterProfile.png",
     opts: {
       series: ["other"]
     }
   },
   {
     name: "Summer",
-    img: "c5DqpgX.png",
+    img: "SummerSmall.png",
     opts: {
       series: ["other"]
     }
   },
   {
     name: "Spring",
-    img: "c5DqpgX.png",
+    img: "SpringSmall.png",
     opts: {
       series: ["other"]
     }
