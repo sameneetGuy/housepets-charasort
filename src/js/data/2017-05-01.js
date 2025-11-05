@@ -43,7 +43,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Academy Instructor",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -64,14 +64,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Actor Dog",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["dog"]
 		}
 	},
 	{
 		name: "Adorable Puppy",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["dog"]
 		}
 	},
 	{
@@ -99,7 +99,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Baby",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -120,14 +120,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Baker",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Bast",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["cat"]
 		}
 	},
 	{
@@ -155,7 +155,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Bookstore Attendant",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -169,7 +169,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Brat",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -183,7 +183,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Bronson",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -204,21 +204,21 @@ dataSet[dataSetVersion].characterData = [
 		name: "Car Rental Guy",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Caricaturist",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Cassia",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["woodcrit"]
 		}
 	},
 	{
@@ -246,7 +246,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Chauffeur",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -260,7 +260,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "City Clerk",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -274,7 +274,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Concessions Vendor",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -288,7 +288,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Coyote",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["woodcrit"]
 		}
 	},
 	{
@@ -309,14 +309,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Critic",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["spot"]
 		}
 	},
 	{
 		name: "Crow",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["woodcrit"]
 		}
 	},
 	{
@@ -330,7 +330,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Customer",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -372,7 +372,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Delivery Guy",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -393,7 +393,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Detective",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -407,14 +407,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Doctor Tanuki",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["spot"]
 		}
 	},
 	{
 		name: "donut guy",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -428,7 +428,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Dressmaker",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -470,7 +470,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Estate Attorney",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -505,7 +505,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Fish Dude",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -533,7 +533,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Frank?",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -568,14 +568,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Griswold",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["dog"]
 		}
 	},
 	{
 		name: "Heathcliff's Maitre D'",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["cat"]
 		}
 	},
 	{
@@ -596,21 +596,21 @@ dataSet[dataSetVersion].characterData = [
 		name: "High-Powered Lawyer",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Host",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "hot dog vendor",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -722,14 +722,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Judge",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Judge Janssen",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -750,14 +750,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Karo",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["dog"]
 		}
 	},
 	{
 		name: "Kate Gelato",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -820,7 +820,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Lady Vet",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -867,7 +867,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Made of Win",
-		img: "c5DqpgX.png",
+		img: "OtherHsSmall.png",
 		opts: {
 			series: ["other"]
 		}
@@ -876,7 +876,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Mailman",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -890,7 +890,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Marion's Mom",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -911,7 +911,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Melissa Monet",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -930,7 +930,7 @@ dataSet[dataSetVersion].characterData = [
 	},
 	{
 		name: "Money for Nothing",
-		img: "c5DqpgX.png",
+		img: "OtherHsSmall.png",
 		opts: {
 			series: ["other"]
 		}
@@ -939,14 +939,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Moose",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["woodcrit"]
 		}
 	},
 	{
 		name: "Mother",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1072,7 +1072,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Orderly",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1086,7 +1086,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Other Frank",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1100,14 +1100,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Pageant Judge",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Pap",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["dog"]
 		}
 	},
 	{
@@ -1296,7 +1296,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Restauranteur",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1429,21 +1429,21 @@ dataSet[dataSetVersion].characterData = [
 		name: "Scientist",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Script Monkey (not a real monkey)/Mister Johnson",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Secretary",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1492,7 +1492,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Soda Jerk",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1569,7 +1569,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Stagehand",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1597,7 +1597,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Stewardess",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1625,14 +1625,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "Swami-Hat Guy",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
 		name: "Talking Head",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
@@ -1653,7 +1653,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Ted",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["spot"]
 		}
 	},
 	{
@@ -1695,7 +1695,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "The Flick",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["spot"]
 		}
 	},
 	{
@@ -1709,7 +1709,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "The Krunlk",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["spot"]
 		}
 	},
 	{
@@ -1723,14 +1723,14 @@ dataSet[dataSetVersion].characterData = [
 		name: "The Underwater Mutt",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["spot"]
 		}
 	},
 	{
 		name: "The Warmongrel",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["spot"]
 		}
 	},
 	{
@@ -1765,7 +1765,7 @@ dataSet[dataSetVersion].characterData = [
 		name: "Todd's Mother",
 		img: "c5DqpgX.png",
 		opts: {
-			series: ["other"]
+			series: ["human"]
 		}
 	},
 	{
